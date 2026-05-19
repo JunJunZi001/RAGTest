@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local model and vector database artifacts
+RAG_Test/models/
+RAG_Test/chroma_db/
+
+# Editor and OS noise
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
